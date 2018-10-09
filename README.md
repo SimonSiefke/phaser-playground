@@ -2,6 +2,8 @@
 
 ## Quickstart
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimonSiefke/phaser-playground.svg)](https://greenkeeper.io/)
+
 ```bash
 git clone https://github.com/SimonSiefke/phaser-playground &&
 cd phaser-playground &&
